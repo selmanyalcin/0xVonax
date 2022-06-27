@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xvonax&label=Profile%20views&color=0e75b6&style=flat" alt="0xvonax" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xvonax" alt="0xvonax" /></a> </p>
-
 - 🔭 I’m currently working on **An Online Math Game**
 
 - 🌱 I’m currently learning **State Management,New Frontend Tools,C#**
