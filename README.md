@@ -17,10 +17,6 @@
 <a href="https://www.youtube.com/channel/UCmQ-GIkwM0xRTgZyyXUnLhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="selman yalçın" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Selman Yalçın"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="180" alt="Selman Yalçın" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvonax&show_icons=true&locale=en&layout=compact" alt="0xvonax" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xvonax&show_icons=true&locale=en" alt="0xvonax" /></p>
