@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/channel/UCmQ-GIkwM0xRTgZyyXUnLhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="selman yalçın" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Selman Yalçın"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Selman Yalçın" /></a></p><br><br>
 
