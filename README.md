@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selman Yalçın</h1>
-<h3 align="center">I'm 16 years old and ı am programming with different languages for the 4 years.I started programming with Arduino and basic Electronics.Then ı've discovered Blockchain,Web3 and now ı have been working on them for the 2 years.I can make professional websites by using HTML,CSS and React.I can develop mobile apps for Android/IOS with React native and Desktop Apps with electron too.</h3>
+<h3 align="center">I'm 16 years old and ı've been programming with different languages for the 4 years.I started programming with Arduino and basic Electronics.Then ı've discovered Blockchain,Web3 and now ı have been working on them for the 2 years.I can make professional websites by using HTML,CSS and React.I can develop mobile apps for Android/IOS with React native and Desktop Apps with electron too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xvonax&label=Profile%20views&color=0e75b6&style=flat" alt="0xvonax" /> </p>
 
