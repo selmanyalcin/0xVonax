@@ -1,24 +1,16 @@
-<h1 align="center">Hi 👋, I'm Selman Yalçın</h1>
-<h3 align="center">I'm 16 years old and ı've been programming with different languages for the 4 years.I started programming with Arduino and basic Electronics.Then ı've discovered Blockchain,Web3 and now ı have been working on them for the 2 years.I can make professional websites by using HTML,CSS and React.I can develop mobile apps for Android/IOS with React native and Desktop Apps with electron too.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xvonax&label=Profile%20views&color=0e75b6&style=flat" alt="0xvonax" /> </p>
-
-- 🔭 I’m currently working on **An Online Math Game**
-
-- 🌱 I’m currently learning **State Management,New Frontend Tools,C#**
-
-- 💬 Ask me about **React,HTML,CSS,JS,**
-
-- 📫 How to reach me **vonax0519@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xvonax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xvonax" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmQ-GIkwM0xRTgZyyXUnLhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="selman yalçın" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvonax&show_icons=true&locale=en&layout=compact" alt="0xvonax" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xvonax&show_icons=true&locale=en" alt="0xvonax" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xvonax&" alt="0xvonax" /></p>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
