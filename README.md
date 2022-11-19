@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xvonax&label=Profile%20views&color=0e75b6&style=flat" alt="0xvonax" /> </p>
 
-- 🔭 I’m currently working on **An Online Math Game**
+- 🔭 I’m currently working on **a Social Media Platform**
 
 - 🌱 I’m currently learning **State Management,New Frontend Tools,C#,Electron.js**
 
